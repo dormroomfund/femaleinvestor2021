@@ -26,6 +26,8 @@
 html {
   font-family: CircularStd;
   width: 100%;
+  background-color: black;
+  color: white;
 }
 
 .body {
@@ -83,7 +85,7 @@ strong {
 
 .button-inactive {
   background-color: #E4E7FF;
-  color: ;
+  color: black;
   text-align: center;
   display: block;
   padding: 2rem;
@@ -111,7 +113,7 @@ a {
 }
 
 span {
-  color: black
+  color: white;
 }
 
 hr{ 
