@@ -36,14 +36,14 @@ html {
 h1 {
   margin-bottom: 0rem;
   font-size: 3.5rem;
-  color: #0702D1;
+  color: #6B7DDA;
 }
 
 h2 {
   padding-top: 1.5rem !important;
   font-size: 2.5rem;
   margin-bottom: 0;
-  color: #0702D1;
+  color: #CD60C6;
 }
 
 h3 {
@@ -65,7 +65,7 @@ li {
   padding: 0.5rem;
   line-height: 2rem;
   font-size: 1.25rem;
-  color: #0702D1; /* bullet color */
+  color: #CD60C6; /* bullet color */
 }
 
 strong {
@@ -73,7 +73,7 @@ strong {
 }
 
 .button-active {
-  background-color: #0702D1;
+  background-color: #6B7DDA;
   color: #FFFFFF;
   text-align: center;
   display: block;
