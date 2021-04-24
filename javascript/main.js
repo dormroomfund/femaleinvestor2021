@@ -6,29 +6,29 @@ var guides = [
       imageSource: 'img/speakers/talia_goldberg.png'
     },
     {
-      name: 'Sarah Guo',
+      name: 'Susan Lyne',
       title: 'General Partner at Greylock',
       bio: 'Sarah is a General Partner at Greylock, and is the firm’s youngest GP and first female GP. Prior to Greylock, she spent time at Goldman Sachs.',
-      imageSource: 'img/speakers/talia_goldberg.png'
+      imageSource: 'img/speakers/susan_lyne.jpg'
     },
   
     {
-      name: 'Afton Vechery',
+      name: 'Soraya Darabi',
       title: 'CEO of Modern Fertility',
       bio: 'Afton is the cofounder and CEO of Modern Fertility, helping women everywhere get access to fertility information. Prior to this, she rebuilt 23AndMe’s consumer experience and worked in healthcare focused private equity.',
-      imageSource: 'img/speakers/talia_goldberg.png'
+      imageSource: 'img/speakers/soraya_darabi.jpg'
     },
     {
-      name: 'Rebecca Kaden',
+      name: 'Wendy Xiao',
       title: 'General Partner at Union Square Ventures',
       bio: 'Rebecca is the General Partner at Union Square Ventures, investing in companies using the internet to re-shape the market. Prior to Union Square Ventures, she was a General Partner at Maveron, a consumer-focused early stage fund.',
-      imageSource: 'img/speakers/talia_goldberg.png'
+      imageSource: 'img/speakers/wendy_xiao.jpg'
     },
     {
-      name: 'Fatima Dicko',
+      name: 'Hayley Barna',
       title: 'CEO of Jetpack',
       bio: 'Fatima is the founder and CEO of Jetpack, bringing students the products they need in minutes. Jetpack is backed by Dorm Room Fund. Prior to Jetpack, Fatima was the youngest senior engineer in P&G’s upstream innovation division.',
-      imageSource: 'img/speakers/talia_goldberg.png'
+      imageSource: 'img/speakers/hayley_barna.jpg'
     }
   ];
   

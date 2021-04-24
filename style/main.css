@@ -133,3 +133,42 @@ hr{
   margin: auto;    
   display: block;
 }
+
+/*
+ * Speaker Slideshow
+*/
+body .previous-guides {
+  margin-top: 90px;
+}
+body .previous-guides .container {
+  margin-top: 0;
+}
+body .previous-guides .container .image-container {
+  margin-top: 20px;
+  margin-right: 0;
+  width: initial;
+}
+body .previous-guides .container .image-container .person {
+  width: 70%;
+  margin: 0 auto;
+}
+body .previous-guides .container .copy {
+  display: flex;
+  flex-direction: column-reverse;
+}
+body .previous-guides .container .copy .details {
+  margin-top: 20px;
+  min-height: initial;
+}
+body .previous-guides .container .copy .details .name {
+  font-size: 22.4px;
+}
+body .previous-guides .container .copy .details .title {
+  font-size: 22.4px;
+}
+body .previous-guides .container .copy .details .body {
+  font-size: 14px;
+}
+body .previous-guides .container .copy .pager {
+  margin-top: 0;
+}
